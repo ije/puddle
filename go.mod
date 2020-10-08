@@ -1,3 +1,3 @@
-module github.com/jackc/puddle
+module github.com/ije/puddle
 
 go 1.15
